@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Poppins:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Poppins:wght@500&display=swap');
+
+
+
+
+#home{
+    width: 100%;
+    height: 680px;
+    background-image: url(../images/home.jpeg);
+    background-size: cover;
+}
+
+#quadrado{
+    width: 370px;
+    height: auto;
+    padding: 160px;
+}
+
+#quadrado h1{
+    line-height: 35px;
+    font-weight:800;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+}
+
+#quadrado h1 span{
+    color: #9C85C3;
+}
+
+#quadrado p{
+    font-family: 'Poppins', sans-serif;
+    color: #816099;
+    margin-top: 10px;
+}
+
+#quadrado button{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: #004819;
+    margin-top: 20px;
+    padding: 10px 15px;
+    border: 1px solid #B1FCA3;
+    background-color: #B1FCA3;
+    border-radius: 50px;
+}
+
+#quadrado button:hover{
+    cursor: pointer;
+    background-color: #9C85C3;
+    border: 1px solid #9C85C3;
+    color: white;
+}

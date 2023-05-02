@@ -1,0 +1,51 @@
+#Container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #F3FFFC;
+    height: auto;
+    border-bottom: 1px solid #AFF4E2;
+}
+
+#Menu{
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-end;
+    align-items: center;
+}
+
+#imglogo{
+    width: 50%;
+}
+
+.imglogo{
+    width: 180px;
+    height: 35px;
+    margin: 15px 100px;
+}
+
+#link{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+#link p{
+    cursor: pointer;
+    color: #5F5177;
+    font-weight: 500;
+    margin-left: 40px;
+}
+
+#link p:hover{
+    text-decoration: underline;
+}
+
+.usuario{
+    width: 30px;
+    height: 30px;
+    margin: 10px 40px;
+}

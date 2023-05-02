@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Poppins:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Poppins:wght@700&display=swap');
+
+
+
+
+#container{
+    background-color: #EDF3F5;
+}
+
+#title_section{
+    text-align: center;
+    padding: 30px;
+}
+
+#title_section h5{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #9C85C3;
+    margin-top: 20px;
+}
+
+#title_section h1{
+    font-family: 'Poppins', sans-serif;
+    margin-top: 10px;
+    line-height: 30px;
+}
