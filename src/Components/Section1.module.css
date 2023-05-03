@@ -25,3 +25,76 @@
     margin-top: 10px;
     line-height: 30px;
 }
+
+#Servicos{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    padding:  0 50px;
+    margin-bottom: 70px;
+}
+
+.bloco{
+    display: flex;
+    width: 400px;
+    margin: 50px 20px;
+}
+
+.bloco h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.bloco p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: #816099;
+}
+
+.bloco div img{
+    width: 65px;
+    height: 65px;
+    margin-right: 10px;
+}
+
+/*         SEÇÃO SOBRE NÓS          */
+
+#Sobre_nos{
+    display: flex;
+}
+
+.texto_sn{
+    width: 50%;
+    padding: 70px 200px 0 200px;
+}
+
+.texto_sn h5{
+    font-family: 'Poppins', sans-serif;
+    color: #816099;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.texto_sn h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.texto_sn p{
+    font-family: 'Poppins', sans-serif;
+    color: #816099;
+    margin-top: 20px;
+}
+
+.img_sn{
+    width: 50%;
+}
+
+.img_sn img{
+    width: 550px;
+    height: 550px;
+}
