@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Poppins:wght@700&display=swap');
+
+
+#metologia{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.missao{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 16%;
+    border: 1px solid #E2E9EB;
+    border-radius: 10px;
+    text-align: center;
+    padding: 15px;
+    margin: 40px;
+}
+
+.missao h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.missao p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: #816099;
+    margin-top: 10px;
+}
+
+.visao{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 16%;
+    border: 1px solid #E2E9EB;
+    border-radius: 10px;
+    text-align: center;
+    padding: 15px;
+    margin: 40px;
+}
+
+.visao h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.visao p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: #816099;
+    margin-top: 10px;
+}
+
+.valores{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 16%;
+    border: 1px solid #E2E9EB;
+    border-radius: 10px;
+    text-align: center;
+    padding: 17px 15px;
+    margin: 40px;
+}
+
+.valores h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.valores p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: #816099;
+    margin-top: 10px;
+}
