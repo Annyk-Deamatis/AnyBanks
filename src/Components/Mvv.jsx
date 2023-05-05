@@ -1,4 +1,4 @@
-import Styles from "./Missao_feedback.module.css"
+import Styles from "./Mvv.module.css"
 import missao from "../images/iconMissao.png"
 import visao from "../images/iconVisao.png"
 import valores from "../images/iconValores.png"

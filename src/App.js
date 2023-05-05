@@ -2,7 +2,8 @@ import Menu from "./Components/Menu"
 import Home from "./Components/Home"
 import Section from "./Components/Section1"
 import Section2 from "./Components/Section2"
-import Missao from "./Components/Missao_feedback"
+import Missao from "./Components/Mvv"
+import Footer from "./Components/Feedback"
 import './App.css';
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Section />
       <Section2 />
       <Missao />
+      <Footer />
     </div>
   );
 }
