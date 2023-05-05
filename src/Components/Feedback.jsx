@@ -102,10 +102,14 @@ function Footer(){
 
                 <div className={Styles.redes_sociais}>
                     <h3>REDES SOCIAIS</h3>
-                    <img src={facebook} alt="facebook" />
-                    <img src={instagram} alt="instagram" />
-                    <img src={tik_tok} alt="tik tok" />
-                    <img src={linkedin} alt=" linkedin" className={Styles.linkedin}/>
+                    <div className={Styles.redes_svg}>
+                        <img src={facebook} alt="facebook" />
+                        <img src={instagram} alt="instagram" />
+                        <img src={tik_tok} alt="tik tok" />
+                        <div className={Styles.linkedin}>
+                        <img src={linkedin} alt=" linkedin" />
+                        </div>
+                    </div>
                 </div>
             </div>
 
