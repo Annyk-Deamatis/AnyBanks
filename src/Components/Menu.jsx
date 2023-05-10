@@ -13,10 +13,9 @@ function Menu(){
             <div id={Styles.Menu}>
                 
                 <div id={Styles.link}>
-                    <p>menu</p>
-                    <p>menu</p>
-                    <p>menu</p>
-                    <p>menu</p>
+                    <p>Sobre nós</p>
+                    <p>Conta digital</p>
+                    <p>Cartão</p>
                 </div>
                 <div>
                     <img src={usuario} alt="usuario" className={Styles.usuario}/>
